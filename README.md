@@ -1,6 +1,6 @@
-# GudangAda
+# Nuxt Js Training 
 
-GudangAda sales web apps powered by [Nuxt.js](https://nuxtjs.org).
+Powered by [Nuxt.js](https://nuxtjs.org).
 
 ## Setup Project
 
@@ -33,7 +33,3 @@ Our main text editor for coding is [Microsoft Visual Studio Code](https://code.v
 Then install and use some recomended extensions here:
 - Best practice following [VueJS style guide](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 - [Prettify](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) your code automatically
-- Really [do comment](https://marketplace.visualstudio.com/items?itemName=joelday.docthis) your js code please
-
-I use another extension mention [here](https://github.com/azulkipli/vscode-nuazul)
-If you need more go to [https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
